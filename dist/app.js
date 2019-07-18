@@ -44,10 +44,7 @@ function calculateResults() {
     } else {
         console.log('ERROR: Bad inputs');
         showError('Error: Please check your loan information and recalculate');
-
     };
-
-
 }
 
 // Show Error

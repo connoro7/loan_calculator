@@ -1,0 +1,26 @@
+{
+  "name": "loancalculator",
+  "version": "1.0.0",
+  "description": "Simple load calculator",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connoro7/loan_calculator.git"
+  },
+  "keywords": [
+    "loan",
+    "calculator"
+  ],
+  "author": "Connor Dillon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connoro7/loan_calculator/issues"
+  },
+  "homepage": "https://connoro7.github.io/loan_calculator",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
